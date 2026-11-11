@@ -132,4 +132,4 @@ npm start
 
 ## Contact
 
-Sammy: [your email] · github.com/skanyingi
+Sammy: samuelkanyingi2016@gmail.com · github.com/skanyingi
